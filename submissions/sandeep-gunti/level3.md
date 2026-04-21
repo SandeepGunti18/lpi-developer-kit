@@ -58,5 +58,3 @@ How can hospitals use digital twins?
 
 The full runnable code is in the linked GitHub repository.
 
-
-
